@@ -72,7 +72,7 @@ cleaning and EDA, and Power BI for interactive dashboard visualisation.
 ---
 
 ## Dashboard Preview
-[Screenshot of dashboard goes here]
+![Dashboard Preview](Screenshot 2026-05-21 150903.png)
 
 ---
 
